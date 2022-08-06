@@ -5,7 +5,7 @@ from engine.willoughby_engine import WilloughbyEngine
 from battery.nubbin_battery import NubbinBattery
 from battery.spindler_battery import SpindlerBattery
 
-from car import Car
+from car.car import Car
 
 
 class Car_Factory():
